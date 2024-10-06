@@ -31,9 +31,11 @@ The model employs a loss function that combines **Binary Cross Entropy** (BCE) w
 
 The results of the segmentation are displayed in a 3x3 grid format. Below is an example of the output images:
 
-![Image 1](./results/train_loss.png) ![Image 2](./results/train_iou.png) ![Image 3](./results/train_dice.png)  
-![Image 4](./results/validation_loss.png) ![Image 5](./results/validation_iou.png) ![Image 6](./results/validation_dice.png)  
-![Image 7](./results/test_loss.png) ![Image 8](./results/test_iou.png) ![Image 9](./results/test_dice.png)
+![Image 1](./results/train_loss.png) | ![Image 2](./results/train_iou.png) | ![Image 3](./results/train_dice.png)
+|:----------------------------------:|:----------------------------------:|:----------------------------------:|
+![Image 4](./results/validation_loss.png) | ![Image 5](./results/validation_iou.png) | ![Image 6](./results/validation_dice.png)
+|:----------------------------------:|:----------------------------------:|:----------------------------------:|
+![Image 7](./results/test_loss.png) | ![Image 8](./results/test_iou.png) | ![Image 9](./results/test_dice.png)
 
 You can find the results images in the `results` directory.
 
