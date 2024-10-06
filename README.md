@@ -12,8 +12,6 @@ This repository contains a Jupyter Notebook for performing lung segmentation usi
 - [Dataset](#dataset)
 - [Loss Function](#loss-function)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
